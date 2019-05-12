@@ -13,6 +13,8 @@
 12/10/2018  09:57 AM    <DIR>          assembly
 03/19/2017  02:33 AM    <DIR>          bcastdvr
 04/27/2018  12:55 AM            64,512 bfsvc.exe
+03/19/2017  02:33 AM    <DIR>          Boot
+03/19/2017  02:33 AM    <DIR>          Branding
 01/14/2019  09:12 PM    <DIR>          CbsTemp
 02/09/2018  12:15 PM             6,559 comsetup.log
 09/07/2017  09:59 PM    <DIR>          CSC
