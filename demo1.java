@@ -14,9 +14,9 @@
 03/19/2017  02:33 AM    <DIR>          bcastdvr
 04/27/2018  12:55 AM            64,512 bfsvc.exe
 03/19/2017  02:33 AM    <DIR>          Boot
-03/19/2017  02:33 AM    <DIR>          Branding
+03/19/2017  02:33 AM    <DIR>          Brandin
 01/14/2019  09:12 PM    <DIR>          CbsTemp
-02/09/2018  12:15 PM             6,559 comsetup.log
+02/09/2018  12:15 PM             6,559 comsetup
 09/07/2017  09:59 PM    <DIR>          CSC
 03/19/2017  02:33 AM    <DIR>          Cursors
 02/19/2018  07:22 PM    <DIR>          debug
